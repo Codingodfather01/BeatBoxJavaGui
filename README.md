@@ -18,3 +18,6 @@ BeatBox is a Java-based MIDI music application that allows users to create and s
 
 ## Getting Started
 ### Clone the Repository
+
+## [Code beatboxfinal](https://github.com/Codingodfather01/BeatBoxJavaGui/blob/1d107ce652ccab8eaaa869ec6cb1972461562afb/BeatBoxFinal)
+## [Code MusicServerFinal]()
